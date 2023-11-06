@@ -1,5 +1,5 @@
-## Hi there 👋
-test
+## À propos
+CMētis est un organisme à but non lucratif à haut impact de transformation sociale intégrant les expertises de la conception, de la construction et du développement immobilier écologique. Il met à disposition des collectivités les ressources permettant un design social de leurs territoires selon les principes d’inclusion, de mixité et de justice socio-environnementale.
 <!--
 
 **Here are some ideas to get you started:**
